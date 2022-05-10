@@ -15,19 +15,19 @@ Make Directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+The html tag is the beginning and the end tag of everything in the included in the html document
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Hypertext Markup Language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Cascading Style Sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
