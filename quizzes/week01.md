@@ -38,35 +38,39 @@ Cascading Style Sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+1. Selector like a class name or id tag
+2. Property like a background color or width
+3. Values like the color you choose like red and number like width size and finally 
+with justify content center is can be center, start or end
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+I would put a <b> tag in front of the word I wanted bolded or I would change the font 
+weight in my style sheet.
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+In your HTML page inside the body tag is were most of you content belongs.
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul, ol and dl
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+flex property sets the flexible length on flexible items. It also allows you to flex containers,rows and columns around the screen as well as the content contained inside.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Margin, Border, Padding and Content
 ```
