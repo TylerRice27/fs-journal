@@ -3,7 +3,7 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+Abstraction, Encapsulation, Inheritance and Polymorphism
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -21,7 +21,7 @@ let property = 'name'
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+ encapsulation refers to the bundling of data with the methods that operate on that data, while also restricting direct access to some of an object's components
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
