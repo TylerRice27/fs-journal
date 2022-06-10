@@ -24,7 +24,7 @@ Object-Retlational Mapping. It uses a Java-based ORM Framework called Hibernate.
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
 ```
-
+Post and Put include a body
 ```
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
