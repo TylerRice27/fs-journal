@@ -19,7 +19,7 @@ Delete = Delete
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
-Object-Retlational Mapping. It uses a Java-based ORM Framework called Hibernate.
+Object-Relational Mapping. It uses a Java-based ORM Framework called Hibernate.
 ```
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
