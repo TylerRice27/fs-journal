@@ -23,17 +23,17 @@ V-for
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Liskov Substitution Principle
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+router-view
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+The AppState is global and can be accessed anywhere in the app where as the state object within a component lives within that specific component.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
