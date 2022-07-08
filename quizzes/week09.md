@@ -3,12 +3,12 @@
 **1.** What is Inheritance?
 <!-- enter you answer in the space below -->
 ```
-
+It is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.
 ```
 **2.** What is the `Singleton` design pattern?
 <!-- enter you answer in the space below -->
 ```
-
+ It is a software design pattern that restricts the instantiation of a class to one "single" instance.
 ```
 **3.** What is the `Observer` design pattern?
 <!-- enter you answer in the space below -->
