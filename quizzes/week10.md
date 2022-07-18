@@ -35,7 +35,7 @@ abstract class Car
 **6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
 ```
-
+The data type
 ```
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
