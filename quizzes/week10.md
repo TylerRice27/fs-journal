@@ -30,7 +30,7 @@ abstract class Car
 **5.** In the example what is the access modifier of the `Start()` method?
 <!-- enter you answer in the space below -->
 ```
-
+Public is the access modifier
 ```
 **6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
@@ -40,12 +40,12 @@ The data type
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-
+The class car can not be used to create objects but instead has to be inherited from another class.
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+Virtual is used to allow a method or class to be modified
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
